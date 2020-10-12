@@ -1,0 +1,1 @@
+# mod_jshopping_ajax_cart_with_related
